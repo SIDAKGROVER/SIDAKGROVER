@@ -1,4 +1,5 @@
-💫 Hi 👋🏻, I'm Sidak Singh
+Hi 👋🏻, I'm Sidak Singh
+
 # 💫 About Me:
 🔭 I’m currently working on<br>- Java DSA & LeetCode<br>- MERN Stack Projects<br>- AI-powered Web Applications<br><br>👯 I’m looking to collaborate on<br>- Open Source Projects<br>- Full Stack Web Development<br>- AI/ML Projects<br><br>🤝 I’m looking for help with<br>- System Design<br>- Open Source Contributions<br>- Backend Scalability<br><br>🌱 I’m currently learning<br>- Spring Boot<br>- React.js<br>- Node.js & Express<br>- Docker<br>- AWS Basics<br><br>💬 Ask me about<br>- Java<br>- Data Structures & Algorithms<br>- Web Development<br>- SQL<br>- Git & GitHub<br><br>⚡ Fun fact<br>- I enjoy solving coding challenges and turning ideas into real-world applications.
 
